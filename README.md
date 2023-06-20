@@ -1,5 +1,21 @@
-Skinner
+Skinner with Dollars MoCap
 =======
+
+
+
+https://github.com/SunnyViewTech/Skinner/assets/123790383/b7ec70c0-b17e-4a7d-b931-ded0309987fd
+
+
+
+
+Usage
+-------------------
+1. Open Dollars MoCap
+2. Enable Unity Streaming
+
+
+Original README
+========
 
 ![gif](http://i.imgur.com/k838bjc.gif)
 ![gif](http://i.imgur.com/Elfd8QE.gif)
